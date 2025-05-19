@@ -26,16 +26,16 @@
 ## 📸 项目截图
 
 <div align="center">
-  <img src="img/首页.png" alt="首页" width="400"/>
+  <img src="img/首页.png" alt="首页" width="800"/>
   <p>首页</p>
 
-  <img src="img/选择智能体.png" alt="智能体选择页面" width="400"/>
+  <img src="img/选择智能体.png" alt="智能体选择页面" width="800"/>
   <p>智能体选择页面</p>
 
- <img src="img/个人中心.png" alt="个人中心" width="400"/>
+ <img src="img/个人中心.png" alt="个人中心" width="800"/>
   <p>个人中心</p>
 
-  <img src="img/对话.png" alt="聊天界面" width="400"/>
+  <img src="img/对话.png" alt="聊天界面" width="800"/>
   <p>聊天界面</p>
 
 </div>
